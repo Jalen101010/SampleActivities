@@ -1,6 +1,8 @@
 body{
-    background-color: rgb(24, 95, 107);
+    background: #293f50;
+    color: #888;
+    font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1{
-    background-color: rgb(248, 243, 241);
+     text-align: center;
 }
